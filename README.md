@@ -16,11 +16,6 @@
 - **LinkedIn**: [Profilime Git](https://www.linkedin.com/in/1ffatihgur/)
 
 
-## 📊 GitHub İstatistikleri
-
-## 📊 GitHub İstatistikleri
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfatihgur&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihgur&layout=compact&theme=radical)
 
 
 
