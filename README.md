@@ -13,4 +13,8 @@
 
 ## 📫 Bana Ulaşın
 - **E-posta**: mfatih.gur1@gmail.com  
-- **LinkedIn**: [Profilime Git](https://www.linkedin.com/in/1ffatihgur/)  
+- **LinkedIn**: [Profilime Git](https://www.linkedin.com/in/1ffatihgur/)
+
+
+
+
